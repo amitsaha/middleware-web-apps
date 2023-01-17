@@ -1,7 +1,7 @@
 # Article resources
 
 This repository contains code referred to from the GitHub ReadME guide,
-"Middleware in Web Applications".
+[Middleware for Web Applications](https://github.com/readme/guides/middleware-for-web-applications).
 
 Feel free to use the issue tracker to ask any questions or clarifications. 
 Hope you find the article useful!
